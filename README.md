@@ -1,3 +1,4 @@
+
 # PMB Online USNP
 
 Sistem Penerimaan Mahasiswa Baru Online USNP 2024/2025
@@ -21,3 +22,7 @@ npm install
 cp .env.example .env
 npm run dev
 ```
+
+# pmb-online
+Web Penerimaan Mahasiswa Baru (PMB)
+ b511dad94823cc0d4bbe379ae9ae1edcb305438a
