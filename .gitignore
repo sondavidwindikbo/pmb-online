@@ -1,0 +1,19 @@
+# Dependencies
+pmb-online-frontend/node_modules/
+pmb-online-backend/node_modules/
+
+# Environment
+pmb-online-frontend/.env
+pmb-online-frontend/.env.local
+pmb-online-backend/.env
+
+# Build
+pmb-online-frontend/dist/
+pmb-online-frontend/build/
+
+# Upload files pendaftar
+pmb-online-backend/uploads/
+
+# OS
+.DS_Store
+Thumbs.db

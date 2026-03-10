@@ -1,0 +1,19 @@
+# Dependencies
+frontend/node_modules/
+backend/node_modules/
+
+# Environment
+frontend/.env
+frontend/.env.local
+backend/.env
+
+# Build
+frontend/dist/
+frontend/build/
+
+# Upload files pendaftar
+backend/uploads/
+
+# OS
+.DS_Store
+Thumbs.db
